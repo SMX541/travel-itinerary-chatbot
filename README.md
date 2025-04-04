@@ -1,6 +1,6 @@
 # Travel Itinerary Chatbot
 
-A travel itinerary chatbot using React and Express that leverages OpenAI to help users plan trips with accommodation, activity, and transportation recommendations.
+A travel itinerary chatbot using React and Express that leverages OpenAI/Groq to help users plan trips with accommodation, activity, and transportation recommendations.
 
 ## Features
 - Chat-based interface for travel planning
