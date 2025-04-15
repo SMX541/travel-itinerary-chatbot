@@ -82,10 +82,8 @@ npm run dev
 
 - `shared/`: Shared code between frontend and backend
   - `schema.ts`: Database schema and shared types
+<img width="1440" alt="Screenshot 2025-04-04 at 12 42 18" src="https://github.com/user-attachments/assets/1a2fc82d-bbde-4084-a185-cc90744a6270" />
 
-## License
-
-MIT
 
 ## Acknowledgments
 
