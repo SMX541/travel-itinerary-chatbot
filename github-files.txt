@@ -1,0 +1,55 @@
+# Files to Include in GitHub Repository
+
+## Project Configuration
+- package.json
+- tsconfig.json
+- vite.config.ts
+- postcss.config.js
+- tailwind.config.ts
+- theme.json
+- drizzle.config.ts
+- .gitignore (create a standard Node.js gitignore)
+
+## Frontend (Client)
+- client/index.html
+- client/src/App.tsx
+- client/src/main.tsx
+- client/src/index.css
+- client/src/components/** (all component files)
+- client/src/contexts/ChatContext.tsx
+- client/src/hooks/use-mobile.tsx
+- client/src/hooks/use-toast.ts
+- client/src/lib/api.ts
+- client/src/lib/openai.ts
+- client/src/lib/queryClient.ts
+- client/src/lib/utils.ts
+- client/src/pages/chat.tsx
+- client/src/pages/home.tsx
+- client/src/pages/itinerary.tsx
+- client/src/pages/not-found.tsx
+
+## Backend (Server)
+- server/index.ts
+- server/routes.ts
+- server/storage.ts
+- server/vite.ts
+- server/db.ts
+- server/lib/openai.ts
+- server/lib/places.ts
+- server/lib/weather.ts
+
+## Shared Code
+- shared/schema.ts
+
+## Documentation
+- README.md (Use the content from the generated README.md)
+
+## Environment Setup
+- .env.example (Create this file with required environment variables but no actual values)
+```
+DATABASE_URL=postgres://username:password@host:port/database
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+## Deployment
+- Add any necessary deployment configuration files (e.g., for Vercel, Netlify, or other platforms)
