@@ -32,7 +32,7 @@ The project follows a full-stack architecture:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/travel-itinerary-chatbot.git
+git clone https://github.com/SMX541/travel-itinerary-chatbot.git
 cd travel-itinerary-chatbot
 ```
 
